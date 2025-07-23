@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=20&duration=4000&pause=1000&color=00a6fb&center=true&multiline=true&width=500&height=80&lines=Glad+you’re +here...;Let’s+dive+into+my+journey;and+explore+the+world+of+code+together+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=20&duration=4000&pause=1000&color=00a6fb&center=true&multiline=true&width=500&height=80&lines=Glad+you’re+here...;Let’s+dive+into+my+journey;and+explore+the+world+of+code+together+🚀" />
 </div>
+
+<br><br>
 
 ### 👨‍💻 Meet the Dev
 
@@ -29,8 +31,10 @@ Hi, I’m Mohammad Hosseini — a computer engineering student finding his path 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=ead2ac&center=true&multiline=true&width=500&height=80&lines=🧠I+don’t+just+write+code;🎨I+craft+experiences;✨One+meaningful+line+at+a+time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=ead2ac&center=true&multiline=true&width=500&height=80&lines=🧠I+don’t+just+write+code;🎨I+craft+experiences;✨One+meaningful+line+at+a+time" />
 </div>
+
+<br>
 
 ### ⏳ Right Now
 
@@ -107,10 +111,10 @@ Hi, I’m Mohammad Hosseini — a computer engineering student finding his path 
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=20&duration=4000&pause=1000&color=00a6fb&center=true&width=500&lines=☀️Have+a+good+day,+and+happy coding!;Brewed+with+☕️❤️+and+a+few+sleepless+nights;🧠💻Stay+curious,+Keep+coding,+and+fun+with+it" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=20&duration=4000&pause=1000&color=00a6fb&center=true&width=500&lines=☀️Have+a+good+day,+and+happy+coding!;Brewed+with+☕️,❤️+and+a+few+sleepless+nights;🧠💻Stay+curious,+Keep+coding,+and+fun+with+it" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4361ee&height=220&section=footer&text=Thank%20You%20For Visiting!&fontSize=35&fontAlignY=65&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4361ee&height=220&section=footer&text=Thank%20you%20for%20visiting!&fontSize=35&fontAlignY=65&fontColor=ffffff&animation=twinkling"/>
 </div>
 
