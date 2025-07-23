@@ -10,9 +10,9 @@
 
 ### 👨‍💻 Meet the Dev
 
-Hi, I’m Mohammad Hosseini — a computer engineering student finding his path in the world of web development.
+Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path in the world of web development.
 
-🌱 These days, I’m mostly focused on the frontend, but I’ve been diving into Next.js to grow into a full-stack dev.
+🌱 These days, I’m mostly focused on the **frontend**, but I’ve been diving into **Next.js** to grow into a full-stack dev.
 
 💡 To me, code has always been more than just syntax — it’s how I solve real problems, build smoother experiences, keep learning, and bring ideas to life.
 
