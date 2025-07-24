@@ -14,7 +14,7 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
 
 🌱 These days, I’m mostly focused on the **frontend**, but I’ve been diving into **Next.js** to grow into a full-stack dev.
 
-💡 To me, code has always been more than just syntax — it’s how I solve real problems, build smoother experiences, keep learning, and bring ideas to life.
+💡 To me, code has always been more than just syntax, it’s how I solve real problems, build smoother experiences, keep learning, and bring ideas to life.
 
 <br>
 
