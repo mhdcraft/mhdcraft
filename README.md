@@ -35,11 +35,9 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
 
 ### ⏳ Right Now
 
-☕️ Here's what I'm up to lately :
+⚡ Here's what I'm up to lately :
 
 - Building side projects & practicing backend logic
-
-- Reading up on accessibility, UX, and design systems
 
 - Probably typing away with a cup of coffee nearby :)
 
