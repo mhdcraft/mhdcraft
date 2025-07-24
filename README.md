@@ -16,7 +16,6 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
 
 💡 To me, code has always been more than just syntax, it’s how I solve real problems, build smoother experiences, keep learning, and bring ideas to life.
 
-<br>
 
 ---
 
@@ -24,7 +23,6 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
 
 ---
 
@@ -34,7 +32,6 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
   <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&weight=500&size=22&duration=4000&pause=1000&color=ead2ac&center=true&multiline=true&width=500&height=90&lines=🧠I+don’t+just+write+code;🎨I+craft+experiences;✨One+meaningful+line+at+a+time" />
 </div>
 
-<br>
 
 ### ⏳ Right Now
 
@@ -84,7 +81,6 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
 
 - Making the web more accessible and beautiful
 
-<br>
 
 ---
 
@@ -96,7 +92,6 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdcraft&layout=compact&theme=blue_navy" alt="Top Languages" />
 </p>
 
-<br>
 
 ---
 
@@ -104,11 +99,10 @@ Hi, I’m **Mohammad Hosseini** a computer engineering student finding his path 
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhdcraft.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@)
 
-<br>
 
 ---
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=22&duration=4000&pause=1000&color=00a6fb&center=true&width=500&lines=☀️Have+a+good+day,+and+happy+coding!;Brewed+with+☕️,❤️+and+a+few+sleepless+nights;🧠💻Stay+curious,+Keep+coding,+and+fun+with+it" />
